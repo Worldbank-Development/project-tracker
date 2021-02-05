@@ -6,4 +6,4 @@ Process may include accepting license agreement by following:
   * Email acceptance
   * Signing the Docusign agreement
 * Once access is provided you will abide by the agreement.
-* You can read the license terms under License file in this repository.
+You can read the license terms under License file in this repository. https://github.com/Worldbank-Development/project-tracker/blob/main/License
